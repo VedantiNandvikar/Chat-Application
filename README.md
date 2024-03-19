@@ -1,7 +1,7 @@
 # Chat-Application
 Project Name: Chat-Application
 
-Programming Language: HTML,CSS,Javascript,php
+Programming Language: CSS,Javascript,php
 
 Description: Greetings from Chat Application, your one-stop shop for smooth, real-time, interactive conversation with several users! With the use of our Graphical User Interface (GUI) based program, you can easily connect and communicate with friends, coworkers, or anybody else worldwide in a simple and user-friendly environment.
 
